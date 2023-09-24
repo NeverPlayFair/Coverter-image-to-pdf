@@ -1,1 +1,1 @@
-# Coverter-image-to-pdf
+I have developed a converter that enables users to change image formats such as .image, .jpeg and .png to PDF format. This process is simple and fascinating. With this tool, it is possible to convert an image of your resume to a PDF. During the project development, I utilized the widely-used Javascript library, jstopdf, which significantly assisted me in accomplishing my goals. I recommend trying this library if you are interested in creating a PDF converter of your own.
